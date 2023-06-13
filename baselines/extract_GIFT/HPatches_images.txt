@@ -1,0 +1,1 @@
+../hpatches-sequences-release/HPatches_images.txt

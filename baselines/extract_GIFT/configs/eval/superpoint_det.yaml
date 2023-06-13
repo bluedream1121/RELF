@@ -1,0 +1,3 @@
+type: superpoint
+weights_path: "baselines/extract_GIFT/data/superpoint/superpoint_v1.pth"
+
